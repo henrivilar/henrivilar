@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- :books: Cursando 2º semestre em Analise e Desenvolvimento de Sistemas<br>- 🌱 Estudando React<br>- 👀 Interesse em trabalhar com front-end</p>
+<p align="left">- :books: Cursando 2º semestre em Analise e Desenvolvimento de Sistemas<br>- 🌱 Estudando React<br>- 👀 Interesse em front-end</p>
 
 ###
 
